@@ -8,9 +8,4 @@ Most recently a programmer at Brown University Library, where I worked on
 
 I also develop [Dinerville](https://www.dinerville.info/). My blog is at [https://www.adamtbradley.com/](https://www.adamtbradley.com/).
 
-I'm currently learning 
-* [Tableau](https://www.tableau.com/),
-* [Rust](https://www.rust-lang.org/), and
-* reacquainting myself with [R](https://www.r-project.org/).
-
 Email me at [hisself@adambradley.net](mailto:hisself@adambradley.net).
