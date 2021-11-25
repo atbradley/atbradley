@@ -1,6 +1,8 @@
 # Adam T. Bradley
 
-Most recently a programmer at Brown University Library, where I worked on 
+Currently a Web Programmer at [Safety Insurance](https://www.safetyinsurance.com/).
+
+Formerly at Brown University Library, where I worked on 
 * Brown's [Online Course Reserves Application](https://library.brown.edu/reserves/).
 * [Inscriptions of Israel Palestine](https://library.brown.edu/iip/index/).
 * [Furnace & Fugue](https://furnaceandfugue.org/), including the [Fugue](https://github.com/brown-University-Library/fugue) XSLT-based static site generator.
