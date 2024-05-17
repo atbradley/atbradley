@@ -1,6 +1,6 @@
 # Adam T. Bradley
 
-Currently a Web Programmer at [Safety Insurance](https://www.safetyinsurance.com/).
+Currently a Web Programmer at [Safety Insurance](https://www.safetyinsurance.com/), where I'm largely involved in integrating our billing servicer's API with our customer- and agent-facing systems.
 
 Formerly at Brown University Library, where I worked on 
 * Brown's Online Course Reserves Application.
