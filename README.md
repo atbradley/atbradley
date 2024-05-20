@@ -1,6 +1,6 @@
 # Adam T. Bradley
 
-Currently a Web Programmer at [Safety Insurance](https://www.safetyinsurance.com/), where I'm largely involved in integrating our billing servicer's API with our customer- and agent-facing systems.
+Currently a Web Programmer at [Safety Insurance](https://www.safetyinsurance.com/), where I'm largely involved in integrating our billing servicer's API with our customer- and agent-facing systems. I've also been researching uses for LLM technologies there.
 
 Formerly at Brown University Library, where I worked on 
 * Brown's Online Course Reserves Application.
@@ -9,4 +9,4 @@ Formerly at Brown University Library, where I worked on
 
 I also develop [Dinerville](https://www.dinerville.info/). My blog is at [https://www.adamtbradley.com/](https://www.adamtbradley.com/).
 
-Email me at [hisself@adambradley.net](mailto:hisself@adambradley.net).
+Email me at [hisself@adambradley.net](mailto:hisself@adambradley.net) or find [me on LinkedIn](https://www.linkedin.com/in/adam-t-bradley/).
